@@ -21,7 +21,7 @@ Support Group : @NP_technology
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @NP_technology
+Support : @nothing_aku
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
